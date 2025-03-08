@@ -5,11 +5,6 @@
 </h1>
 
 <div align="center">
-  <a href="https://t.me/Neiro_a1">
-    <img src="https://img.shields.io/badge/*channel*-Telegram-blue" alt="Telegram"/>
-  </a>
-</div>
-<div align="center">
   The simplest script for automatic participation in drawings.
 </div>
 <div align="center">
@@ -36,8 +31,3 @@
 6. Done! Run the `start.bat` file to start the script. Good luck!
 ![image](https://github.com/Delafault/Telegram-Automatic-participation/assets/78411508/42e9505c-5e3a-46bd-b7db-d605776574e0)
 
-<div align="center">
-  <h6>
-Note: this is not a fully finalized script. If you have any ideas or suggestions, I'd love to hear them. Using multiple accounts at the same time when running one instance of the script will be added later (maybe).
-  </h6>
-</div>
