@@ -4,8 +4,11 @@
   </div>
 </h1>
 
-<div align="center">
-  The simplest script for automatic participation in drawings.
+<h2 align="left">
+  <b>What's added?</b>
+</h2>
+<div align="left">
+  Multi-account support with asynchronous launch. When the program is launched, scanning of the last 20 messages in channels for giveaways has been added
 </div>
 <div align="center">
   <h3>
